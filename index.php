@@ -1,7 +1,9 @@
 <?php
 
-echo "Meu primeiro arquivo em php"
-echo "testes"
-echo "testando o outro branch"
+$nome = "Andre";
+
+echo $nome;
+
+var_dump($nome);
   
->
+?>
